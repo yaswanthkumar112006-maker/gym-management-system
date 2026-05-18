@@ -45,8 +45,7 @@ A DBMS project developed for managing gym operations such as member records, tra
 - Yaswanth Kumar
 - Rithwik Joshi
 - Bharath
-## Major Contributions by Yaswanth Kumar
-
+## My Contributions
 - Planned and designed the overall project workflow
 - Coordinated task distribution among team members
 - Designed the database schema
